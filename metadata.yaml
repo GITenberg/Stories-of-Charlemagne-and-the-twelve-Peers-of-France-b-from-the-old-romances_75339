@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '55544'
     url: http://www.gutenberg.org/2009/agents/55544
     wikipedia: https://en.wikipedia.org/wiki/George_Morrow_(illustrator)
+covers:
+- cover_type: archival
+  image_path: 75339-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Church, Alfred John
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2020
     wikipedia: https://en.wikipedia.org/wiki/Alfred_John_Church
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75339#Stories-of-Charlemagne-and-the-twelve-Peers-of-France-b-from-the-old-romances
 gutenberg_issued: '2025-02-10'
 gutenberg_type: Text
 identifiers:
